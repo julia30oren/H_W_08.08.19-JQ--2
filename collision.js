@@ -6,6 +6,7 @@ canvas.width = innerWidth;
 canvas.height = innerHeight;
 
 // wedwkbn;
+///kjhfjhgcjhvb
 
 let mouse = {
     x: innerWidth/2,
