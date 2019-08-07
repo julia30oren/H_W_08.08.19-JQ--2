@@ -5,7 +5,7 @@ const c = canvas.getContext('2d');
 canvas.width = innerWidth;
 canvas.height = innerHeight;
 
-
+// wedw
 
 let mouse = {
     x: innerWidth/2,
